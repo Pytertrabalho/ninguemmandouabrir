@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+segredos/
+*.token.json
+youtube.json
+meta.json
